@@ -320,3 +320,4 @@ Hôm nay là ngày 1 — không phải ngày mai, không phải thứ Hai.
 - Bắt đầu Block 1 ngay hôm nay.
 
 Bắt đầu từ 1 giờ. Ngày mai là 8 giờ. Tuần sau là 56 giờ. Sáu tháng sau, bạn sẽ có nền tảng, dự án và portfolio để cạnh tranh cho vị trí Senior Java Developer.
+
