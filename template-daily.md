@@ -1,113 +1,113 @@
-# Kế hoạch ngày hôm nay – dd/mm/yyyy (Thứ ...)
+# Today's Plan – dd/mm/yyyy (Day ...)
 
-Dựa trên kế hoạch Tuần 1, ngày hôm nay tập trung vào bản sắc Senior, kiến thức AWS, thực hành Docker và thiết lập môi trường học tập.
+Based on the Week 1 plan, today focuses on Senior identity, AWS knowledge, Docker practice, and setting up a learning environment.
 
-## Mục tiêu chính của hôm nay
+## Today's Main Goals
 - 
 
 ---
 
-## Lịch trình 8 giờ học + công việc
+## 8-Hour Study + Work Schedule
 
-### 5:30 – 6:00 | Tuyên bố bản sắc & mục tiêu ngày
-- Đọc to file `../../senior-java-developer-identity-statement.md`.
-- Ghi ra 3 hành vi Senior mà mình sẽ thực hiện hôm nay.
-- Viết câu khẳng định:
-  - “Hôm nay, tôi sẽ làm gì để xứng đáng với bản sắc Senior?”
+### 5:30 – 6:00 | Identity Statement & Daily Goals
+- Read the file `../../senior-java-developer-identity-statement.md` aloud.
+- Write down 3 Senior behaviors I will practice today.
+- Write an affirmation:
+  - “What will I do today to live up to my Senior identity?”
 
 Checklist:
-- [ ] Đọc bản sắc
-- [ ] Chọn 3 hành vi cụ thể
-- [ ] Ghi mục tiêu ngày
+- [ ] Read the identity statement
+- [ ] Choose 3 specific behaviors
+- [ ] Write down today's goals
 
 ### 6:00 – 7:30 | Block 1: System Design + Java Core
-#### Học lý thuyết
-- System Design cơ bản:
+#### Theory
+- Basic System Design:
 
 Checklist:
-- [x] Ghi 3 ý chính System Design
-- [ ] Viết note 1 trang ngắn
+- [x] Write down 3 key System Design ideas
+- [ ] Write a brief one-page note
 
-### 7:30 – 8:00 | Ăn sáng & nghỉ ngắn
-- Ăn sáng nhẹ, đi bộ 10–15 phút.
-- Không mở điện thoại quá lâu.
+### 7:30 – 8:00 | Breakfast & Short Break
+- Have a light breakfast and walk for 10–15 minutes.
+- Don't spend too long on your phone.
 
-### 8:00 – 12:00 | Làm việc tại công ty
+### 8:00 – 12:00 | Work at the Company
 
-### 12:00 – 13:00 | Nghỉ trưa
-- Ăn trưa, nghỉ thật sự.
-- Không học thêm trong giờ nghỉ.
+### 12:00 – 13:00 | Lunch Break
+- Have lunch and take a real break.
+- Don't study during the break.
 
 ### 13:00 – 14:30 | Block 2: AWS Fundamentals
-#### Mục tiêu
+#### Goals
 
-#### Nội dung học
+#### Study Topics
 
-#### Thực hành
+#### Practice
 
 Checklist:
 - [ ] 
 
-### 14:30 – 14:45 | Nghỉ ngắn
-- [x] Uống nước, đi bộ 5–10 phút.
+### 14:30 – 14:45 | Short Break
+- [x] Drink water and walk for 5–10 minutes.
 
 ### 14:45 – 16:15 | Block 3: Docker
-#### Mục tiêu
+#### Goals
 
-#### Thực hành
-
-Checklist:
-- [ ] 
-
-### 16:15 – 16:30 | Nghỉ ngắn
-- Nghỉ, thở sâu, không ngồi quá lâu.
-
-### 16:30 – 17:15 | Block 4: Terraform cơ bản
-#### Mục tiêu
-
-#### Thực hành
+#### Practice
 
 Checklist:
 - [ ] 
 
-### 17:15 – 19:00 | Về nhà. Chạy bộ 20 phút
-- Chạy nhẹ, không quá sức.
-- Mục tiêu: vận động và chuyển trạng thái trước buổi tối.
+### 16:15 – 16:30 | Short Break
+- Rest, take a deep breath, and avoid sitting for too long.
 
-### 19:00 – 20:00 | Ăn tối & nghỉ
-- Nghỉ ngơi sau khi chạy bộ.
+### 16:30 – 17:15 | Block 4: Terraform Fundamentals
+#### Goals
+
+#### Practice
+
+Checklist:
+- [ ] 
+
+### 17:15 – 19:00 | Head Home. Run for 20 Minutes
+- Run gently; don't overexert yourself.
+- Goal: exercise and transition before the evening.
+
+### 19:00 – 20:00 | Dinner & Rest
+- Rest after your run.
 
 ### 20:00 – 21:00 | Block 4: 
-#### Mục tiêu
+#### Goals
 
-#### Thực hành
+#### Practice
 
 Checklist:
 - [ ]
 
-### 21:30 – 22:00 | Nhật ký + tổng kết
-Trả lời 5 câu hỏi sau:
-1. Hôm nay tôi học được gì?
-2. Hôm nay tôi đã hành động như Senior ở đâu?
-3. Ở đâu tôi còn tư duy như Mid?
-4. Ngày mai tôi sẽ cải thiện điều gì?
-5. Tổng XP hôm nay là bao nhiêu?
+### 21:30 – 22:00 | Journal + Review
+Answer these 5 questions:
+1. What did I learn today?
+2. Where did I act like a Senior today?
+3. Where did I still think like a Mid-level developer?
+4. What will I improve tomorrow?
+5. How much XP did I earn today?
 
 ---
 
-## Checklist tổng kết hôm nay
-- [ ] Đọc tuyên bố bản sắc
-- [ ] Chọn 3 hành vi Senior
-- [ ] Ôn Java Core và System Design
-- [ ] Ghi chú và vẽ sơ đồ AWS cơ bản
-- [ ] Chạy container Docker
-- [ ] Chạy PostgreSQL bằng Docker Compose
-- [ ] Kiểm tra Git / JDK / IntelliJ / Maven hoặc Gradle / Docker
-- [ ] Tạo repo GitHub và commit lần đầu
-- [ ] Chạy bộ 20 phút
-- [ ] Viết note / bài dạy lại
-- [ ] Nhật ký cuối ngày
+## Today's Wrap-Up Checklist
+- [ ] Read the identity statement
+- [ ] Choose 3 Senior behaviors
+- [ ] Review Java Core and System Design
+- [ ] Take notes and draw a basic AWS diagram
+- [ ] Run a Docker container
+- [ ] Run PostgreSQL with Docker Compose
+- [ ] Check Git / JDK / IntelliJ / Maven or Gradle / Docker
+- [ ] Create a GitHub repo and make the first commit
+- [ ] Run for 20 minutes
+- [ ] Write a note / teach back what I learned
+- [ ] End-of-day journal
 
 ---
 
-## Tiêu chí hoàn thành ngày hôm nay
+## Today's Completion Criteria

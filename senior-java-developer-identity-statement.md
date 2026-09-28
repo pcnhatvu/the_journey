@@ -1,81 +1,81 @@
-# TUYÊN BỐ BẢN SẮC SENIOR JAVA DEVELOPER
+# SENIOR JAVA DEVELOPER IDENTITY STATEMENT
 
-*Phiên bản cập nhật — Tích hợp bài học về “Tín Nhiệm”*
+*Updated version — incorporating the lesson of “Trust”*
 
-## PHIÊN BẢN CHÍNH
+## MAIN VERSION
 
-*Đọc to mỗi sáng.*
+*Read aloud every morning.*
 
-> Tôi là một Senior Java Developer.
+> I am a Senior Java Developer.
 >
-> Tôi thiết kế hệ thống, không chỉ viết code.  
-> Tôi dẫn dắt, không chỉ tham gia.  
-> Tôi chịu trách nhiệm về kiến trúc, chất lượng, và sự phát triển của team.  
-> Tôi học mỗi ngày để xứng đáng với bản sắc này.
+> I design systems, not just write code.  
+> I lead, not just participate.  
+> I take ownership of architecture, quality, and team growth.  
+> I learn every day to earn this identity.
 >
-> Tôi hiểu rằng sự nghiệp của tôi không được đo bằng số việc tôi làm,  
-> Mà bằng loại việc người khác tin tưởng giao cho tôi.
+> I understand that my career is not measured by the number of tasks I do,  
+> but by the kind of tasks others trust me with.
 >
-> Mỗi ngày, tôi xây dựng tín nhiệm từng khoản nhỏ:  
-> Tôi giữ lời hứa.  
-> Tôi báo sớm khi có vấn đề.  
-> Tôi nhận trách nhiệm khi sai.  
-> Tôi không để người khác phải chạy theo hỏi: “Việc tới đâu rồi?”
+> Every day, I build trust through small deposits:  
+> I keep my word.  
+> I raise problems early.  
+> I take responsibility when I'm wrong.  
+> I don't make others chase me to ask, “Where are we on this?”
 >
-> Tôi không chỉ làm việc được giao rõ tên.  
-> Tôi chủ động tìm việc cần làm.  
-> Tôi không đẩy trách nhiệm.  
-> Tôi không hứa cho xong chuyện.  
-> Tôi không để người khác phải sửa phần việc của mình.
+> I don't only do tasks explicitly assigned to me.  
+> I proactively find what needs to be done.  
+> I don't push responsibility away.  
+> I don't make promises just to get people off my back.  
+> I don't leave others to fix my work.
 >
-> Tôi hiểu rằng tín nhiệm giống như lãi kép:  
-> Một lần giữ lời chưa làm nên sự nghiệp,  
-> Nhưng giao đúng thứ đã hứa hết lần này đến lần khác sẽ tạo nên vốn.
+> I understand that trust compounds like interest:  
+> Keeping one promise doesn't make a career,  
+> but delivering what I promised, time after time, builds capital.
 >
-> Tôi không tự trấn an bằng câu: “Tôi có làm gì sai đâu.”  
-> Tôi tự hỏi: “Khi có việc quan trọng, người khác có yên tâm giao cho tôi không?”
+> I don't comfort myself by saying, “I didn't do anything wrong.”  
+> I ask, “When something important comes up, will others feel confident entrusting it to me?”
 >
-> Tôi không chờ được giao việc quan trọng.  
-> Tôi trở thành người mà người khác tin tưởng giao việc quan trọng.
+> I don't wait to be given important work.  
+> I become the person others trust with important work.
 >
-> Tôi không sợ trách nhiệm. Tôi tìm kiếm nó.  
-> Tôi không sợ thất bại. Tôi sợ đứng yên.  
-> Tôi không cần hoàn hảo. Tôi cần tiến bộ mỗi ngày.
+> I don't fear responsibility. I seek it.  
+> I don't fear failure. I fear standing still.  
+> I don't need perfection. I need progress every day.
 >
-> Tôi là người giải quyết vấn đề, không phải người chờ được giao việc.  
-> Tôi là người đề xuất giải pháp, không phải người chờ chỉ dẫn.  
-> Tôi là người nâng đỡ người khác, không phải người chỉ lo cho bản thân.
+> I am a problem solver, not someone who waits to be assigned tasks.  
+> I propose solutions, not wait for instructions.  
+> I lift others up, not just focus on myself.
 >
-> Mỗi dòng code tôi viết là một cam kết về chất lượng.  
-> Mỗi cuộc họp tôi tham gia là một cơ hội để đóng góp.  
-> Mỗi thử thách tôi gặp là một cơ hội để trưởng thành.  
-> Mỗi lời hứa tôi đưa ra là một khoản tín nhiệm tôi gửi gắm.
+> Every line of code I write is a commitment to quality.  
+> Every meeting I attend is an opportunity to contribute.  
+> Every challenge I face is an opportunity to grow.  
+> Every promise I make is a deposit of trust.
 >
-> Hôm nay, tôi là phiên bản Senior tốt hơn hôm qua.  
-> Ngày mai, tôi sẽ là phiên bản Senior tốt hơn hôm nay.
+> Today, I am a better version of a Senior than I was yesterday.  
+> Tomorrow, I will be a better version of a Senior than I am today.
 >
-> Tôi là Senior Java Developer.  
-> Tôi bắt đầu ngay bây giờ.
+> I am a Senior Java Developer.  
+> I start now.
 
-## PHIÊN BẢN NGẮN
+## SHORT VERSION
 
-*Dán lên gương hoặc màn hình laptop.*
+*Put it on your mirror or laptop screen.*
 
-> Tôi thiết kế. Tôi dẫn dắt. Tôi chịu trách nhiệm.  
-> Tôi giữ lời hứa. Tôi báo sớm. Tôi nhận sai.  
-> Tôi là người mà khi có việc khó, tên xuất hiện đầu tiên.  
-> Tôi là Senior Java Developer.  
-> Tôi bắt đầu ngay hôm nay.
+> I design. I lead. I take ownership.  
+> I keep my word. I raise issues early. I own my mistakes.  
+> When there's a difficult problem, I'm the first person who comes to mind.  
+> I am a Senior Java Developer.  
+> I start today.
 
-## PHIÊN BẢN 1 CÂU
+## ONE-SENTENCE VERSION
 
-*Khi cần nhắc nhở nhanh.*
+*For a quick reminder.*
 
-> Tôi là người thiết kế hệ thống, dẫn dắt team, chịu trách nhiệm về kết quả — và là người mà người khác tin tưởng giao việc quan trọng.
+> I am a systems designer and team leader who takes responsibility for outcomes—and someone others trust with important work.
 
-## PHIÊN BẢN TIẾNG ANH
+## ENGLISH VERSION
 
-*Cho CV, LinkedIn, phỏng vấn.*
+*For a résumé, LinkedIn, and interviews.*
 
 > I am a Senior Java Developer.
 >
@@ -85,13 +85,13 @@
 > I learn every day to earn this identity.
 >
 > I understand my career is not measured by how many tasks I do,  
-> But by the kind of tasks others trust me with.
+> but by the kind of tasks others trust me with.
 >
 > Every day, I build trust in small deposits:  
 > I keep my word.  
 > I raise problems early.  
 > I take responsibility when I'm wrong.  
-> I never make others chase me asking: “Where are we on this?”
+> I never make others chase me asking, “Where are we on this?”
 >
 > I don't only do tasks assigned with my name on them.  
 > I proactively find what needs to be done.  
@@ -101,7 +101,7 @@
 >
 > I understand trust compounds like interest:  
 > One kept promise doesn't make a career,  
-> But delivering what I promised, time after time, builds capital.
+> but delivering what I promised, time after time, builds capital.
 >
 > I don't comfort myself with: “I didn't do anything wrong.”  
 > I ask: “When something important comes up, will others feel safe giving it to me?”
@@ -128,95 +128,95 @@
 > I am a Senior Java Developer.  
 > I start now.
 
-## 10 HÀNH VI CỦA NGƯỜI SENIOR
+## 10 BEHAVIORS OF A SENIOR
 
-| # | Hành vi | Câu khẳng định |
+| # | Behavior | Affirmation |
 |---:|---|---|
-| 1 | Thiết kế trước khi code | “Tôi vẽ kiến trúc trước khi viết dòng code đầu tiên.” |
-| 2 | Đề xuất, không chờ đợi | “Tôi chủ động đề xuất giải pháp trong mỗi cuộc họp.” |
-| 3 | Review code với tinh thần xây dựng | “Tôi review code để nâng đỡ đồng nghiệp, không chỉ tìm lỗi.” |
-| 4 | Mentor người khác | “Tôi có trách nhiệm giúp junior tiến bộ.” |
-| 5 | Học mỗi ngày | “Tôi đọc 30 phút tài liệu kỹ thuật mỗi ngày.” |
-| 6 | Chịu trách nhiệm | “Tôi nhận trách nhiệm về kết quả, không đổ lỗi.” |
-| 7 | Nghĩ về business | “Tôi hiểu ‘tại sao’ trước khi hỏi ‘như thế nào’.” |
-| 8 | Giữ lời hứa | “Tôi giao đúng thứ đã hứa, đúng hạn.” |
-| 9 | Báo sớm khi có vấn đề | “Tôi không im lặng đến phút cuối.” |
-| 10 | Không để người khác phải sửa việc của mình | “Tôi làm đến nơi đến chốn, không để lại hậu quả.” |
+| 1 | Design before coding | “I sketch the architecture before writing the first line of code.” |
+| 2 | Propose instead of waiting | “I proactively propose solutions in every meeting.” |
+| 3 | Review code constructively | “I review code to support my colleagues, not just to find bugs.” |
+| 4 | Mentor others | “I am responsible for helping junior developers grow.” |
+| 5 | Learn every day | “I read technical documentation for 30 minutes every day.” |
+| 6 | Take ownership | “I take responsibility for outcomes instead of blaming others.” |
+| 7 | Think about the business | “I understand ‘why’ before asking ‘how.’” |
+| 8 | Keep my word | “I deliver what I promised, on time.” |
+| 9 | Raise problems early | “I don't stay silent until the last minute.” |
+| 10 | Don't leave others to fix my work | “I finish things properly and don't leave problems behind.” |
 
-## BẢNG TÍN NHIỆM: TỰ ĐÁNH GIÁ MỖI TUẦN
+## TRUST SCORECARD: WEEKLY SELF-ASSESSMENT
 
-| Câu hỏi | Tuần này |
+| Question | This week |
 |---|---|
-| Tôi có giữ lời hứa không? | ☐ Có ☐ Không |
-| Tôi có báo sớm khi có vấn đề không? | ☐ Có ☐ Không |
-| Tôi có nhận trách nhiệm khi sai không? | ☐ Có ☐ Không |
-| Tôi có để ai phải chạy theo hỏi “việc tới đâu rồi” không? | ☐ Có ☐ Không |
-| Tôi có làm việc không được giao rõ tên không? | ☐ Có ☐ Không |
-| Tôi có đẩy trách nhiệm cho người khác không? | ☐ Có ☐ Không |
-| Tôi có hứa cho xong chuyện không? | ☐ Có ☐ Không |
-| Tôi có để người khác phải sửa phần việc của mình không? | ☐ Có ☐ Không |
-| Khi có việc quan trọng, người khác có yên tâm giao cho tôi không? | ☐ Có ☐ Không |
+| Did I keep my promises? | ☐ Yes ☐ No |
+| Did I raise problems early? | ☐ Yes ☐ No |
+| Did I take responsibility when I was wrong? | ☐ Yes ☐ No |
+| Did I make anyone chase me to ask “where are we on this”? | ☐ Yes ☐ No |
+| Did I take on work that wasn't explicitly assigned to me? | ☐ Yes ☐ No |
+| Did I push responsibility onto someone else? | ☐ Yes ☐ No |
+| Did I make promises just to get people off my back? | ☐ Yes ☐ No |
+| Did I leave others to fix my work? | ☐ Yes ☐ No |
+| When important work came up, did others feel confident entrusting it to me? | ☐ Yes ☐ No |
 
-## CÁCH SỬ DỤNG TUYÊN BỐ NÀY
+## HOW TO USE THIS STATEMENT
 
-1. **Buổi sáng (5:30–6:00):** Đọc to phiên bản chính một lần; đọc lại 10 hành vi; tự hỏi: “Hôm nay tôi sẽ thể hiện bản sắc Senior ở đâu? Tôi sẽ xây dựng tín nhiệm như thế nào?”
-2. **Trước khi vào meeting:** Đọc phiên bản 1 câu. Tự nhủ: “Tôi sẽ đóng góp, không chỉ ngồi nghe. Tôi sẽ giữ lời hứa.”
-3. **Khi gặp khó khăn:** Đọc phiên bản ngắn. Tự nhủ: “Senior không bỏ cuộc. Senior tìm giải pháp. Senior báo sớm.”
-4. **Buổi tối (20:00–20:30):** Đọc lại phiên bản chính. Viết nhật ký: “Hôm nay tôi đã xây dựng tín nhiệm ở đâu? Ở đâu tôi đã rút tín nhiệm?”
-5. **Trước khi phỏng vấn:** Đọc phiên bản tiếng Anh. Tự nhủ: “Tôi không cần chứng minh. Tôi đã là Senior.”
-6. **Khi apply công việc:** Dùng phiên bản tiếng Anh trong CV, LinkedIn, cover letter. Dùng 10 hành vi làm bullet points trong CV.
-7. **Mỗi Chủ nhật:** Điền bảng tín nhiệm. Xem lại tuần: tín nhiệm tăng hay giảm? Điều chỉnh tuần sau.
+1. **Morning (5:30–6:00):** Read the main version aloud once; review the 10 behaviors; ask yourself: “Where will I demonstrate my Senior identity today? How will I build trust?”
+2. **Before a meeting:** Read the one-sentence version. Remind yourself: “I will contribute, not just sit and listen. I will keep my word.”
+3. **When facing difficulty:** Read the short version. Remind yourself: “A Senior doesn't give up. A Senior finds solutions. A Senior raises issues early.”
+4. **Evening (20:00–20:30):** Read the main version again. Journal: “Where did I build trust today? Where did I lose trust?”
+5. **Before an interview:** Read the English version. Remind yourself: “I don't need to prove it. I already am a Senior.”
+6. **When applying for jobs:** Use the English version in your résumé, LinkedIn, and cover letter. Use the 10 behaviors as résumé bullet points.
+7. **Every Sunday:** Fill out the trust scorecard. Review the week: did trust increase or decrease? Adjust for next week.
 
-## VIẾT TUYÊN BỐ CỦA RIÊNG BẠN
+## WRITE YOUR OWN STATEMENT
 
-*Hãy điền vào chỗ trống:*
+*Fill in the blanks:*
 
-> Tôi là một Senior Java Developer.
+> I am a Senior Java Developer.
 >
-> Tôi thiết kế ____________ (hệ thống microservices / kiến trúc AWS / giải pháp scalable).  
-> Tôi dẫn dắt ____________ (team / code review / sprint planning).  
-> Tôi chịu trách nhiệm về ____________ (chất lượng / kiến trúc / sự phát triển của team).  
-> Tôi học ____________ (AWS / System Design / DevOps) mỗi ngày.
+> I design ____________ (microservices systems / AWS architecture / scalable solutions).  
+> I lead ____________ (the team / code reviews / sprint planning).  
+> I take responsibility for ____________ (quality / architecture / team growth).  
+> I learn about ____________ (AWS / System Design / DevOps) every day.
 >
-> Tôi xây dựng tín nhiệm bằng cách:  
-> ____________ (giữ lời hứa / báo sớm / nhận sai / không đẩy trách nhiệm).
+> I build trust by:  
+> ____________ (keeping my word / raising issues early / owning mistakes / not pushing away responsibility).
 >
-> Tôi không sợ ____________ (trách nhiệm / thất bại / bị đánh giá).  
-> Tôi tìm kiếm ____________ (cơ hội / thử thách / sự phát triển).
+> I don't fear ____________ (responsibility / failure / being judged).  
+> I seek ____________ (opportunities / challenges / growth).
 >
-> Khi có việc quan trọng, tôi muốn người khác nghĩ:  
-> “Giao cho ____________ (tên bạn) là yên tâm.”
+> When important work comes up, I want others to think:  
+> “I can trust ____________ (your name) with this.”
 >
-> Hôm nay, tôi là phiên bản Senior tốt hơn hôm qua.
+> Today, I am a better Senior than I was yesterday.
 >
-> Tôi là Senior Java Developer.  
-> Tôi bắt đầu ngay bây giờ.
+> I am a Senior Java Developer.  
+> I start right now.
 
-## LỜI NHẮC CUỐI
+## FINAL REMINDER
 
-Tuyên bố bản sắc không phải là lời nói suông.  
-Đó là lời hứa với chính mình.
+An identity statement is not empty talk.  
+It is a promise to yourself.
 
-Bạn không cần chờ được thăng chức để trở thành Senior.  
-Bạn trở thành Senior trước.  
-Rồi thăng chức sẽ đến.
+You don't need to wait for a promotion to become a Senior.  
+You become a Senior first.  
+Then the promotion will come.
 
-Bạn không cần chờ được giao việc quan trọng.  
-Bạn trở thành người mà người khác tin tưởng giao việc quan trọng.
+You don't need to wait to be given important work.  
+Become the person others trust with important work.
 
-Sự nghiệp của bạn không được đo bằng số việc bạn làm.  
-Mà bằng loại việc người khác tin tưởng giao cho bạn.
+Your career is not measured by the number of tasks you do,  
+but by the kind of tasks others trust you with.
 
-Hôm nay là ngày 1.  
-Không phải ngày mai.  
-Không phải thứ Hai.  
-Hôm nay.
+Today is Day 1.  
+Not tomorrow.  
+Not Monday.  
+Today.
 
-**Hành động ngay bây giờ:**
+**Take action right now:**
 
-1. Chọn phiên bản bạn thích nhất.
-2. Viết nó ra giấy.
-3. Dán lên gương hoặc màn hình laptop.
-4. Đọc to một lần.
-5. Điền bảng tín nhiệm cho tuần này.
-6. Bắt đầu hành động như một Senior ngay hôm nay.
+1. Choose the version you like best.
+2. Write it down.
+3. Put it on your mirror or laptop screen.
+4. Read it aloud once.
+5. Fill in this week's trust scorecard.
+6. Start acting like a Senior today.

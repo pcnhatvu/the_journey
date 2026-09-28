@@ -1,92 +1,92 @@
-# Kế hoạch học 8 giờ mỗi ngày: Chinh phục Senior Java Developer trong 6 tháng
+# Study Plan: 8 Hours a Day to Become a Senior Java Developer in 6 Months
 
-## Bối cảnh
+## Context
 
-- Làm việc tại công ty: 4 giờ/ngày (có thể là 8:00–12:00).
-- Thời gian tự do để học: 8 giờ/ngày.
-- Tổng thời gian học trong 6 tháng: khoảng 1.440 giờ (tương đương 8 giờ/ngày trong 30 ngày/tháng).
+- Work at the company: 4 hours/day (possibly 8:00–12:00).
+- Free time available for study: 8 hours/day.
+- Total study time in 6 months: about 1,440 hours (equivalent to 8 hours/day for 30 days/month).
 
-Đây là lợi thế lớn để học sâu và nhanh. Hãy điều chỉnh nhịp độ theo công việc, sức khỏe và yêu cầu thực tế của các vị trí Senior.
+This is a major advantage for learning deeply and quickly. Adjust the pace to your work, health, and the actual requirements of Senior roles.
 
-## Nguyên tắc vàng
+## Golden Rules
 
-- Không dành cả 8 giờ cho lý thuyết; kết hợp lý thuyết, thực hành, áp dụng và dạy lại.
-- Không học liên tục không nghỉ; dùng Pomodoro 50/10.
-- Không học lan man; ưu tiên những kỹ năng JD Senior yêu cầu.
-- Không bỏ qua sức khỏe; ngủ 7–8 giờ và tập thể dục 30 phút mỗi ngày.
+- Don't spend all 8 hours on theory; combine theory, practice, application, and teaching.
+- Don't study continuously without breaks; use Pomodoro 50/10.
+- Don't study without focus; prioritize the skills required by Senior job descriptions.
+- Don't neglect your health; sleep 7–8 hours and exercise for 30 minutes each day.
 
-## Khung thời gian mẫu một ngày
+## Sample Daily Schedule
 
-| Thời gian | Hoạt động | Loại | Ghi chú |
+| Time | Activity | Type | Notes |
 |---|---|---|---|
-| 5:30–6:00 | Thức dậy, tĩnh lặng, đọc tuyên bố bản sắc | Nghi thức | Không dùng điện thoại |
-| 6:00–7:30 | Block 1: Lý thuyết sâu | Học mới | System Design / AWS / DevOps |
-| 7:30–8:00 | Ăn sáng, nghỉ ngơi | Nghỉ | |
-| 8:00–12:00 | Làm việc tại công ty (4 giờ) | Áp dụng | Áp dụng kiến thức phù hợp vào công việc |
-| 12:00–13:00 | Ăn trưa, nghỉ ngơi | Nghỉ | Không học |
-| 13:00–14:30 | Block 2: Thực hành code | Thực hành | Bài tập, lab AWS |
-| 14:30–14:45 | Nghỉ ngắn | Nghỉ | Đi bộ, uống nước |
-| 14:45–16:15 | Block 3: Dự án cá nhân | Thực hành | Xây dựng microservices |
-| 16:15–16:30 | Nghỉ ngắn | Nghỉ | |
-| 16:30–18:00 | Block 4: Học chuyên sâu | Học mới | CI/CD, Docker, Kubernetes |
-| 18:00–19:00 | Ăn tối, nghỉ ngơi | Nghỉ | Không học |
-| 19:00–20:30 | Block 5: Viết tài liệu / blog / mentor | Dạy lại | Viết blog, review code, mentor |
-| 20:30–21:00 | Block 6: Ôn tập và nhật ký | Ôn tập | Ghi chú, đánh dấu XP |
-| 21:00–21:30 | Đọc sách kỹ thuật | Học nhẹ | |
-| 21:30–22:00 | Thư giãn, chuẩn bị ngủ | Nghỉ | |
-| 22:00 | Đi ngủ | Nghỉ | Mục tiêu ngủ đủ khoảng 7,5 giờ |
+| 5:30–6:00 | Wake up, quiet time, read the identity statement | Ritual | Don't use your phone |
+| 6:00–7:30 | Block 1: Deep theory | New learning | System Design / AWS / DevOps |
+| 7:30–8:00 | Breakfast and rest | Break | |
+| 8:00–12:00 | Work at the company (4 hours) | Application | Apply relevant knowledge at work |
+| 12:00–13:00 | Lunch and rest | Break | No studying |
+| 13:00–14:30 | Block 2: Coding practice | Practice | Exercises, AWS labs |
+| 14:30–14:45 | Short break | Break | Walk, drink water |
+| 14:45–16:15 | Block 3: Personal project | Practice | Build microservices |
+| 16:15–16:30 | Short break | Break | |
+| 16:30–18:00 | Block 4: In-depth study | New learning | CI/CD, Docker, Kubernetes |
+| 18:00–19:00 | Dinner and rest | Break | No studying |
+| 19:00–20:30 | Block 5: Documentation / blog / mentoring | Teach-back | Write a blog, review code, mentor |
+| 20:30–21:00 | Block 6: Review and journal | Review | Take notes, record XP |
+| 21:00–21:30 | Read a technical book | Light study | |
+| 21:30–22:00 | Unwind and get ready for bed | Break | |
+| 22:00 | Go to sleep | Rest | Aim for about 7.5 hours of sleep |
 
-**Tổng thời gian học theo các block:** 1,5 + 1,5 + 1,5 + 1,5 + 1,5 + 0,5 = 8 giờ. Công việc tại công ty được tính là thời gian áp dụng, không cộng vào 8 giờ tự học.
+**Total study time across the blocks:** 1.5 + 1.5 + 1.5 + 1.5 + 1.5 + 0.5 = 8 hours. Work at the company counts as applied learning and is not included in the 8 hours of independent study.
 
-## Chi tiết 6 block học
+## The 6 Study Blocks in Detail
 
-### Block 1: Lý thuyết sâu (6:00–7:30)
+### Block 1: Deep Theory (6:00–7:30)
 
-**Mục đích:** Xây nền tảng kiến thức vững chắc.
+**Purpose:** Build a solid knowledge foundation.
 
-| Ngày | Chủ đề | Tài liệu gợi ý |
+| Day | Topic | Suggested Resources |
 |---|---|---|
-| Thứ 2 | System Design | *System Design Interview* (Alex Xu) |
-| Thứ 3 | AWS | AWS Documentation, khóa học Udemy |
-| Thứ 4 | Microservices Patterns | *Microservices Patterns* (Chris Richardson) |
-| Thứ 5 | Domain-Driven Design | *Domain-Driven Design* (Eric Evans) |
-| Thứ 6 | Clean Architecture | *Clean Architecture* (Robert C. Martin) |
-| Thứ 7 | DevOps & CI/CD | *The DevOps Handbook* |
-| Chủ nhật | Ôn tập tuần | Ghi chú cá nhân |
+| Monday | System Design | *System Design Interview* (Alex Xu) |
+| Tuesday | AWS | AWS Documentation, Udemy course |
+| Wednesday | Microservices Patterns | *Microservices Patterns* (Chris Richardson) |
+| Thursday | Domain-Driven Design | *Domain-Driven Design* (Eric Evans) |
+| Friday | Clean Architecture | *Clean Architecture* (Robert C. Martin) |
+| Saturday | DevOps & CI/CD | *The DevOps Handbook* |
+| Sunday | Weekly review | Personal notes |
 
-**Cách học hiệu quả:**
+**Effective study methods:**
 
-- Đọc 25 phút, ghi chú 5 phút, rồi tiếp tục.
-- Không chỉ highlight; viết lại ý chính bằng lời của mình.
-- Cuối buổi, tóm tắt 3 ý quan trọng.
+- Read for 25 minutes, take notes for 5 minutes, then continue.
+- Don't just highlight; restate the main ideas in your own words.
+- At the end of the session, summarize 3 important ideas.
 
-### Block 2: Thực hành code (13:00–14:30)
+### Block 2: Coding Practice (13:00–14:30)
 
-**Mục đích:** Biến lý thuyết thành kỹ năng.
+**Purpose:** Turn theory into skill.
 
-| Ngày | Hoạt động | Đầu ra |
+| Day | Activity | Deliverable |
 |---|---|---|
-| Thứ 2 | Giải thuật và coding interview | 2 bài LeetCode |
-| Thứ 3 | Lab AWS (ECS, SQS, Lambda) | 1 lab hoàn thành |
-| Thứ 4 | Design Pattern trong Java | Implement 1 pattern |
-| Thứ 5 | Testing (JUnit, Mockito, Testcontainers) | 1 bộ test hoàn chỉnh |
-| Thứ 6 | Docker & Kubernetes | 1 ứng dụng deploy lên K8s |
-| Thứ 7 | CI/CD Pipeline | 1 pipeline hoàn chỉnh |
-| Chủ nhật | Ôn tập và làm lại bài khó | Ghi chú |
+| Monday | Algorithms and coding interviews | 2 LeetCode problems |
+| Tuesday | AWS lab (ECS, SQS, Lambda) | 1 completed lab |
+| Wednesday | Design Patterns in Java | Implement 1 pattern |
+| Thursday | Testing (JUnit, Mockito, Testcontainers) | 1 complete test suite |
+| Friday | Docker & Kubernetes | 1 application deployed to K8s |
+| Saturday | CI/CD Pipeline | 1 complete pipeline |
+| Sunday | Review and redo difficult problems | Notes |
 
-**Quy tắc:**
+**Rules:**
 
-- Không copy-paste; tự gõ và hiểu phần code mình viết.
-- Khi gặp lỗi, tự debug tối đa 30 phút rồi tìm trợ giúp phù hợp.
-- Ghi lại lỗi và cách giải quyết trong `lessons-learned.md`.
+- Don't copy and paste; type the code yourself and understand what you write.
+- When you encounter an error, debug it yourself for up to 30 minutes before seeking appropriate help.
+- Record errors and their solutions in `lessons-learned.md`.
 
-### Block 3: Dự án cá nhân (14:45–16:15)
+### Block 3: Personal Project (14:45–16:15)
 
-**Mục đích:** Xây portfolio chứng minh năng lực Senior.
+**Purpose:** Build a portfolio that demonstrates Senior-level ability.
 
-**Dự án chính:** Hệ thống E-commerce Microservices.
+**Main project:** E-commerce Microservices System.
 
-| Tuần | Module | Công nghệ |
+| Weeks | Module | Technologies |
 |---|---|---|
 | 1–2 | Product Service | Spring Boot, PostgreSQL, REST API |
 | 3–4 | Order Service | Spring Boot, Kafka, Saga Pattern |
@@ -96,228 +96,227 @@
 | 11–12 | Monitoring | Prometheus, Grafana, ELK Stack |
 | 13–14 | Infrastructure as Code | Terraform, AWS CDK |
 | 15–16 | Documentation | OpenAPI, ADR, README |
-| 17–20 | Mở rộng và tối ưu | Performance tuning, security |
-| 21–24 | Hoàn thiện và deploy | AWS production-ready |
+| 17–20 | Expand and optimize | Performance tuning, security |
+| 21–24 | Finalize and deploy | AWS production-ready |
 
-**Yêu cầu:**
+**Requirements:**
 
-- Mỗi module có unit test và integration test.
-- Commit ít nhất 5 lần mỗi tuần.
-- Cuối dự án, viết case study chi tiết.
+- Every module has unit and integration tests.
+- Make at least 5 commits each week.
+- At the end of the project, write a detailed case study.
 
-### Block 4: Học chuyên sâu (16:30–18:00)
+### Block 4: In-Depth Study (16:30–18:00)
 
-**Mục đích:** Đào sâu các chủ đề Senior cần.
+**Purpose:** Explore topics needed by Seniors in depth.
 
-| Ngày | Chủ đề | Nguồn |
+| Day | Topic | Source |
 |---|---|---|
-| Thứ 2 | AWS nâng cao (EKS, Fargate, Step Functions) | AWS Skill Builder |
-| Thứ 3 | Kubernetes nâng cao (Helm, Operators, Service Mesh) | Kubernetes Docs |
-| Thứ 4 | CI/CD nâng cao (Jenkins, GitLab CI, ArgoCD) | Khóa học Udemy |
-| Thứ 5 | Security (OAuth2, JWT, mTLS, SAST/DAST) | OWASP |
-| Thứ 6 | Performance & Scalability | *Designing Data-Intensive Applications* |
-| Thứ 7 | Soft skills (Leadership, Communication) | *The Manager's Path* |
-| Chủ nhật | Ôn tập và tổng kết | Ghi chú |
+| Monday | Advanced AWS (EKS, Fargate, Step Functions) | AWS Skill Builder |
+| Tuesday | Advanced Kubernetes (Helm, Operators, Service Mesh) | Kubernetes Docs |
+| Wednesday | Advanced CI/CD (Jenkins, GitLab CI, ArgoCD) | Udemy course |
+| Thursday | Security (OAuth2, JWT, mTLS, SAST/DAST) | OWASP |
+| Friday | Performance & Scalability | *Designing Data-Intensive Applications* |
+| Saturday | Soft skills (Leadership, Communication) | *The Manager's Path* |
+| Sunday | Review and recap | Notes |
 
-### Block 5: Viết tài liệu / blog / mentor (19:00–20:30)
+### Block 5: Documentation / Blog / Mentoring (19:00–20:30)
 
-**Mục đích:** Dạy lại là cách học tốt; chia sẻ kiến thức cũng là một hành vi của Senior.
+**Purpose:** Teaching is an effective way to learn; sharing knowledge is also a Senior behavior.
 
-| Ngày | Hoạt động | Đầu ra |
+| Day | Activity | Deliverable |
 |---|---|---|
-| Thứ 2 | Viết blog kỹ thuật | 1 bài blog |
-| Thứ 3 | Review code đồng nghiệp | 2 PR review |
-| Thứ 4 | Mentor junior | 1 buổi mentor 1 giờ |
-| Thứ 5 | Viết tài liệu kiến trúc | 1 ADR |
-| Thứ 6 | Chia sẻ trong cộng đồng | 1 bài đăng |
-| Thứ 7 | Viết case study dự án | 1 case study |
-| Chủ nhật | Tổng hợp và lên kế hoạch tuần | Kế hoạch tuần |
+| Monday | Write a technical blog | 1 blog post |
+| Tuesday | Review a colleague's code | 2 PR reviews |
+| Wednesday | Mentor a junior developer | 1-hour mentoring session |
+| Thursday | Write architecture documentation | 1 ADR |
+| Friday | Share with the community | 1 post |
+| Saturday | Write a project case study | 1 case study |
+| Sunday | Recap and plan the week | Weekly plan |
 
-**Quy tắc:**
+**Rules:**
 
-- Viết để người khác hiểu, không chỉ để lưu cho mình.
-- Mỗi bài blog nên có ví dụ code thực tế.
-- Chuẩn bị trước khi mentor; không dạy qua loa.
+- Write so others can understand; don't write only for yourself.
+- Every blog post should include a practical code example.
+- Prepare before mentoring; don't teach carelessly.
 
-### Block 6: Ôn tập và nhật ký (20:30–21:00)
+### Block 6: Review and Journal (20:30–21:00)
 
-**Mục đích:** Củng cố kiến thức và theo dõi tiến độ.
+**Purpose:** Reinforce knowledge and track progress.
 
-**Câu hỏi nhật ký:**
+**Journal questions:**
 
-- Hôm nay tôi học được gì? (3 ý chính)
-- Hôm nay tôi đã hành động như Senior ở đâu?
-- Ở đâu tôi còn tư duy hoặc hành xử như Mid?
-- Ngày mai tôi sẽ cải thiện điều gì?
-- Tổng XP hôm nay là bao nhiêu?
+- What did I learn today? (3 key points)
+- Where did I act like a Senior today?
+- Where did I still think or behave like a Mid-level developer?
+- What will I improve tomorrow?
+- How much XP did I earn today?
 
-**Đánh dấu XP:**
+**Record XP:**
 
-| Hành động | XP |
+| Activity | XP |
 |---|---:|
-| Học 1 giờ lý thuyết | +20 |
-| Hoàn thành 1 lab | +50 |
+| Study theory for 1 hour | +20 |
+| Complete 1 lab | +50 |
 | Commit code | +10 |
-| Viết blog | +100 |
+| Write a blog post | +100 |
 | Review code | +30 |
-| Mentor 1 giờ | +50 |
-| Đề xuất cải tiến | +300 |
+| Mentor for 1 hour | +50 |
+| Propose an improvement | +300 |
 
-## Lịch tuần mẫu (8 giờ học/ngày)
+## Sample Weekly Schedule (8 Study Hours/Day)
 
-| Giờ | Thứ 2 | Thứ 3 | Thứ 4 | Thứ 5 | Thứ 6 | Thứ 7 | Chủ nhật |
+| Time | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |---|---|---|---|---|---|---|---|
-| 6:00–7:30 | System Design | AWS | Microservices | DDD | Clean Architecture | DevOps | Ôn tập |
-| 8:00–12:00 | Công ty | Công ty | Công ty | Công ty | Công ty | Công ty | Nghỉ |
-| 13:00–14:30 | LeetCode | AWS Lab | Design Pattern | Testing | Docker/K8s | CI/CD | Ôn tập |
-| 14:45–16:15 | Product Service | Product Service | Order Service | Order Service | User Service | API Gateway | Ôn tập |
-| 16:30–18:00 | AWS nâng cao | K8s nâng cao | CI/CD nâng cao | Security | Performance | Soft skills | Tổng kết |
-| 19:00–20:30 | Viết blog | Review code | Mentor | Viết ADR | Chia sẻ | Case study | Kế hoạch |
-| 20:30–21:00 | Nhật ký | Nhật ký | Nhật ký | Nhật ký | Nhật ký | Nhật ký | Review tuần |
-| 21:00–21:30 | Đọc sách | Đọc sách | Đọc sách | Đọc sách | Đọc sách | Đọc sách | Đọc sách |
+| 6:00–7:30 | System Design | AWS | Microservices | DDD | Clean Architecture | DevOps | Review |
+| 8:00–12:00 | Company | Company | Company | Company | Company | Company | Rest |
+| 13:00–14:30 | LeetCode | AWS Lab | Design Pattern | Testing | Docker/K8s | CI/CD | Review |
+| 14:45–16:15 | Product Service | Product Service | Order Service | Order Service | User Service | API Gateway | Review |
+| 16:30–18:00 | Advanced AWS | Advanced K8s | Advanced CI/CD | Security | Performance | Soft skills | Recap |
+| 19:00–20:30 | Blog writing | Code review | Mentoring | Write ADR | Share | Case study | Planning |
+| 20:30–21:00 | Journal | Journal | Journal | Journal | Journal | Journal | Weekly review |
+| 21:00–21:30 | Read a book | Read a book | Read a book | Read a book | Read a book | Read a book | Read a book |
 
-> Lịch Chủ nhật có các block ôn tập/tổng kết và thời gian nghỉ. Hãy ưu tiên nghỉ ít nhất một buổi thực sự mỗi tuần để duy trì sức khỏe và nhịp học dài hạn.
+> Sunday includes review/recap blocks and rest time. Prioritize taking at least one full session off each week to maintain your health and sustain a long-term study rhythm.
 
-## Lộ trình 6 tháng
+## 6-Month Roadmap
 
-### Tháng 1: Nền tảng (mục tiêu khoảng 240 giờ)
+### Month 1: Fundamentals (target: about 240 hours)
 
-- **Lý thuyết:** System Design, AWS cơ bản, Microservices Patterns.
-- **Thực hành:** Docker, AWS labs, LeetCode.
-- **Dự án:** Bắt đầu Product Service.
-- **Đầu ra:** Kiến trúc microservices, 4 bài blog, 1 lab AWS.
+- **Theory:** System Design, basic AWS, Microservices Patterns.
+- **Practice:** Docker, AWS labs, LeetCode.
+- **Project:** Start Product Service.
+- **Deliverables:** Microservices architecture, 4 blog posts, 1 AWS lab.
 
-### Tháng 2: CI/CD & DevOps (mục tiêu khoảng 240 giờ)
+### Month 2: CI/CD & DevOps (target: about 240 hours)
 
-- **Lý thuyết:** CI/CD, DevOps, Kubernetes.
-- **Thực hành:** Dockerize, pipeline, Kubernetes.
-- **Dự án:** Hoàn thành Product Service và Order Service.
-- **Đầu ra:** CI/CD pipeline, 1 ứng dụng chạy trên Kubernetes.
+- **Theory:** CI/CD, DevOps, Kubernetes.
+- **Practice:** Dockerize an application, build a pipeline, use Kubernetes.
+- **Project:** Complete Product Service and Order Service.
+- **Deliverables:** CI/CD pipeline, 1 application running on Kubernetes.
 
-### Tháng 3: Dự án thực chiến (mục tiêu khoảng 240 giờ)
+### Month 3: Hands-On Project (target: about 240 hours)
 
-- **Lý thuyết:** DDD, Clean Architecture, Testing.
-- **Thực hành:** Hoàn thiện dự án và viết test.
-- **Dự án:** Hoàn thành User Service và API Gateway.
-- **Đầu ra:** 1 dự án microservices hoàn chỉnh trên GitHub.
+- **Theory:** DDD, Clean Architecture, Testing.
+- **Practice:** Complete the project and write tests.
+- **Project:** Complete User Service and API Gateway.
+- **Deliverables:** 1 complete microservices project on GitHub.
 
-### Tháng 4: Chứng chỉ AWS (mục tiêu khoảng 240 giờ)
+### Month 4: AWS Certification (target: about 240 hours)
 
-- **Lý thuyết:** Ôn thi AWS Developer Associate.
-- **Thực hành:** Terraform, monitoring, security.
-- **Dự án:** Deploy dự án lên AWS với cấu hình hướng production.
-- **Đầu ra:** Chứng chỉ AWS, dự án có monitoring.
+- **Theory:** Prepare for the AWS Developer Associate exam.
+- **Practice:** Terraform, monitoring, security.
+- **Project:** Deploy the project to AWS with production-oriented configuration.
+- **Deliverables:** AWS certification, project with monitoring.
 
-### Tháng 5: Mentoring & Soft Skills (mục tiêu khoảng 240 giờ)
+### Month 5: Mentoring & Soft Skills (target: about 240 hours)
 
-- **Lý thuyết:** Leadership, communication.
-- **Thực hành:** Mentor junior, review code.
-- **Dự án:** Viết tài liệu, ADR, case study.
-- **Đầu ra:** 3 tài liệu kỹ thuật, hỗ trợ 1 junior tiến bộ.
+- **Theory:** Leadership, communication.
+- **Practice:** Mentor junior developers, review code.
+- **Project:** Write documentation, ADRs, and a case study.
+- **Deliverables:** 3 technical documents, help 1 junior developer grow.
 
-### Tháng 6: Portfolio & Apply (mục tiêu khoảng 240 giờ)
+### Month 6: Portfolio & Applications (target: about 240 hours)
 
-- **Lý thuyết:** Mock interview, System Design Interview.
-- **Thực hành:** Luyện phỏng vấn, hoàn thiện portfolio.
-- **Dự án:** Ứng tuyển 15+ vị trí Senior.
-- **Đầu ra mục tiêu:** Sẵn sàng cho vị trí Senior Java Developer và hướng tới offer.
+- **Theory:** Mock interviews, System Design Interview.
+- **Practice:** Interview preparation, polish the portfolio.
+- **Project:** Apply to 15+ Senior positions.
+- **Target deliverable:** Be ready for a Senior Java Developer role and work toward an offer.
 
-## So sánh mục tiêu học 4 giờ và 8 giờ mỗi ngày
+## Comparing 4-Hour and 8-Hour Daily Study Goals
 
-| Yếu tố | 4 giờ/ngày | 8 giờ/ngày |
+| Factor | 4 hours/day | 8 hours/day |
 |---|---|---|
-| Thời gian học/tuần | 28 giờ | 56 giờ |
-| Thời gian học/6 tháng | 720 giờ | 1.440 giờ |
-| Lý thuyết | Vừa đủ | Sâu |
-| Thực hành | Đủ | Nhiều |
-| Dự án | 1 dự án cơ bản | 1 dự án hướng production-ready |
-| Chứng chỉ | AWS | AWS, có thể thêm 1 chứng chỉ |
-| Mentoring | 1 junior | 2–3 junior |
-| Blog | 12 bài | 24+ bài |
-| Portfolio | Tốt | Xuất sắc |
-| Cạnh tranh | Khá | Rất cao |
-| Khả năng đạt Senior | Cao | Rất cao |
+| Study time/week | 28 hours | 56 hours |
+| Study time/6 months | 720 hours | 1,440 hours |
+| Theory | Adequate | In-depth |
+| Practice | Enough | Extensive |
+| Project | 1 basic project | 1 production-ready-oriented project |
+| Certification | AWS | AWS, possibly 1 additional certification |
+| Mentoring | 1 junior developer | 2–3 junior developers |
+| Blog | 12 posts | 24+ posts |
+| Portfolio | Good | Excellent |
+| Competitiveness | Fairly high | Very high |
+| Likelihood of reaching Senior level | High | Very high |
 
-## Nguyên tắc để không kiệt sức
+## Principles to Avoid Burnout
 
-1. **Pomodoro 50/10:** Tập trung 50 phút, nghỉ 10 phút. Sau 3 Pomodoro, nghỉ 30 phút.
-2. **Ngủ đủ 7,5–8 giờ:** Không thức khuya để học; có thể ngủ trưa 20 phút nếu cần.
-3. **Tập thể dục 30 phút/ngày:** Chạy bộ, gym hoặc yoga. Sức khỏe là nền tảng.
-4. **Ăn uống lành mạnh:** Không bỏ bữa, uống đủ nước, hạn chế caffeine sau 14:00.
-5. **Nghỉ ngơi thực sự:** Nghỉ hoàn toàn một buổi mỗi Chủ nhật và một ngày mỗi tháng.
-6. **Không so sánh với người khác:** So sánh với chính mình ngày hôm qua; tiến bộ thầm lặng vẫn là tiến bộ thật.
-7. **Có người đồng hành:** Tìm accountability partner và check-in mỗi tối.
+1. **Pomodoro 50/10:** Focus for 50 minutes, then rest for 10. After 3 Pomodoros, take a 30-minute break.
+2. **Sleep 7.5–8 hours:** Don't stay up late to study; take a 20-minute nap if needed.
+3. **Exercise 30 minutes/day:** Run, go to the gym, or do yoga. Health is the foundation.
+4. **Eat well:** Don't skip meals, drink enough water, and limit caffeine after 14:00.
+5. **Get real rest:** Take a full session off every Sunday and one full day each month.
+6. **Don't compare yourself with others:** Compare yourself with yesterday's version of you; quiet progress is still real progress.
+7. **Find an accountability partner:** Check in with them every evening.
 
-## Dấu hiệu cảnh báo kiệt sức
+## Burnout Warning Signs
 
-| Dấu hiệu | Cách xử lý |
+| Sign | Response |
 |---|---|
-| Mất ngủ | Giảm 1 giờ học, ưu tiên ngủ đủ |
-| Không tập trung | Nghỉ hoàn toàn 1 ngày |
-| Cáu gắt | Tăng vận động, nghỉ ngơi |
-| Mất động lực | Đọc lại phản tầm nhìn |
-| Đau đầu thường xuyên | Uống nước, nghỉ ngơi |
-| Không muốn mở laptop | Giảm xuống 4 giờ/ngày trong 1 tuần |
+| Insomnia | Reduce study by 1 hour and prioritize enough sleep |
+| Difficulty concentrating | Take 1 full day off |
+| Irritability | Increase exercise and rest |
+| Loss of motivation | Reread your anti-vision |
+| Frequent headaches | Drink water and rest |
+| Don't want to open your laptop | Reduce to 4 hours/day for 1 week |
 
-## Checklist 6 tháng
+## 6-Month Checklist
 
-### Tháng 1
+### Month 1
 
-- [ ] Có kiến trúc microservices trên AWS.
-- [ ] Viết 4 blog kỹ thuật.
-- [ ] Hoàn thành 1 lab AWS.
-- [ ] Product Service chạy được.
+- [ ] Have a microservices architecture on AWS.
+- [ ] Write 4 technical blog posts.
+- [ ] Complete 1 AWS lab.
+- [ ] Product Service runs successfully.
 
-### Tháng 2
+### Month 2
 
-- [ ] Dockerize 1 ứng dụng.
-- [ ] Hoàn thành CI/CD pipeline.
-- [ ] Deploy lên Kubernetes.
-- [ ] Hoàn thành Order Service.
+- [ ] Dockerize 1 application.
+- [ ] Complete a CI/CD pipeline.
+- [ ] Deploy to Kubernetes.
+- [ ] Complete Order Service.
 
-### Tháng 3
+### Month 3
 
-- [ ] Đưa dự án microservices lên GitHub.
-- [ ] Tích hợp CI/CD vào dự án.
-- [ ] Đạt test coverage mục tiêu trên 80%.
-- [ ] Hoàn thành User Service và API Gateway.
+- [ ] Put the microservices project on GitHub.
+- [ ] Integrate CI/CD into the project.
+- [ ] Reach a target test coverage above 80%.
+- [ ] Complete User Service and API Gateway.
 
-### Tháng 4
+### Month 4
 
-- [ ] Đạt chứng chỉ AWS Developer Associate.
-- [ ] Có Terraform configuration.
-- [ ] Có monitoring với Prometheus/Grafana.
-- [ ] Deploy dự án lên AWS với cấu hình hướng production.
+- [ ] Earn the AWS Developer Associate certification.
+- [ ] Have a Terraform configuration.
+- [ ] Have monitoring with Prometheus/Grafana.
+- [ ] Deploy the project to AWS with production-oriented configuration.
 
-### Tháng 5
+### Month 5
 
-- [ ] Mentor 2 junior.
-- [ ] Viết 3 tài liệu kỹ thuật (ADR).
-- [ ] Có 2 cải tiến được chấp nhận.
-- [ ] Hoàn thành case study dự án.
+- [ ] Mentor 2 junior developers.
+- [ ] Write 3 technical documents (ADRs).
+- [ ] Have 2 accepted improvements.
+- [ ] Complete the project case study.
 
-### Tháng 6
+### Month 6
 
-- [ ] Hoàn thiện portfolio.
-- [ ] Hoàn thành 10 buổi mock interview.
-- [ ] Gửi 15+ đơn ứng tuyển.
-- [ ] Hướng tới offer Senior Java Developer.
+- [ ] Complete the portfolio.
+- [ ] Complete 10 mock interviews.
+- [ ] Send 15+ applications.
+- [ ] Work toward a Senior Java Developer offer.
 
-## Lời nhắc cuối
+## Final Reminder
 
-8 giờ/ngày là lợi thế lớn, nhưng chỉ có giá trị khi bạn duy trì kỷ luật và bảo vệ sức khỏe.
+Studying 8 hours/day is a major advantage, but it only matters if you maintain discipline and protect your health.
 
-Bạn không cần hoàn hảo; bạn cần nhất quán. Bạn không cần biết tất cả; hãy tập trung vào những gì JD yêu cầu. Bạn không cần chờ được thăng chức; hãy chủ động thể hiện năng lực Senior.
+You don't need to be perfect; you need to be consistent. You don't need to know everything; focus on what job descriptions require. You don't need to wait for a promotion; proactively demonstrate Senior-level ability.
 
-Hôm nay là ngày 1 — không phải ngày mai, không phải thứ Hai.
+Today is Day 1—not tomorrow, not Monday.
 
-**Hành động ngay bây giờ:**
+**Take action right now:**
 
-- In JD Senior ra.
-- Đánh dấu các yêu cầu: design, manage, CI/CD, DevOps, microservices, AWS.
-- Viết tuyên bố bản sắc Senior.
-- Tạo file `senior-java-6-months-8h.md`.
-- Bắt đầu Block 1 ngay hôm nay.
+- Print out a Senior job description.
+- Mark the requirements: design, manage, CI/CD, DevOps, microservices, AWS.
+- Write a Senior identity statement.
+- Create the file `senior-java-6-months-8h.md`.
+- Start Block 1 today.
 
-Bắt đầu từ 1 giờ. Ngày mai là 8 giờ. Tuần sau là 56 giờ. Sáu tháng sau, bạn sẽ có nền tảng, dự án và portfolio để cạnh tranh cho vị trí Senior Java Developer.
-
+Start with 1 hour. Tomorrow, do 8 hours. Next week, 56 hours. Six months from now, you'll have the foundation, projects, and portfolio to compete for a Senior Java Developer role.
