@@ -2,26 +2,15 @@
 
 Based on the Week x plan, today focuses on Senior identity, AWS knowledge, Docker practice, and setting up a learning environment.
 
-## Today's Main Goals
-- 
-
 ---
 
 ## 8-Hour Study + Work Schedule
 
 ### 5:30 – 6:00 | Identity Statement & Daily Goals
 - Read the file `../../senior-java-developer-identity-statement.md` aloud.
-- Write down 3 Senior behaviors I will practice today.
-- Write an affirmation:
-  - “What will I do today to live up to my Senior identity?”
-
-Checklist:
-- [ ] Read the identity statement
-- [ ] Choose 3 specific behaviors
-- [ ] Write down today's goals
 
 ### 6:00 – 7:30 | Block 1: System Design Book
-- Basic System Design
+- System Design
 
 ### 7:30 – 8:00 | Breakfast & Short Break
 - Have a light breakfast and walk for 10–15 minutes.
@@ -46,7 +35,6 @@ Checklist:
 ### 16:30 – 17:15 | Block 4: Terraform Fundamentals
 
 ### 17:15 – 19:00 | Head Home. Run for 20 Minutes
-
 - Run gently; don't overexert yourself.
 - Goal: exercise and transition before the evening.
 
