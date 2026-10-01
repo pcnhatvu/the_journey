@@ -46,6 +46,7 @@ Checklist:
 ### 16:30 – 17:15 | Block 4: Terraform Fundamentals
 
 ### 17:15 – 19:00 | Head Home. Run for 20 Minutes
+
 - Run gently; don't overexert yourself.
 - Goal: exercise and transition before the evening.
 
