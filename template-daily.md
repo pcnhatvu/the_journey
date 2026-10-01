@@ -1,6 +1,6 @@
 # Today's Plan – dd/mm/yyyy (Day ...)
 
-Based on the Week 1 plan, today focuses on Senior identity, AWS knowledge, Docker practice, and setting up a learning environment.
+Based on the Week x plan, today focuses on Senior identity, AWS knowledge, Docker practice, and setting up a learning environment.
 
 ## Today's Main Goals
 - 
@@ -20,13 +20,8 @@ Checklist:
 - [ ] Choose 3 specific behaviors
 - [ ] Write down today's goals
 
-### 6:00 – 7:30 | Block 1: System Design + Java Core
-#### Theory
-- Basic System Design:
-
-Checklist:
-- [x] Write down 3 key System Design ideas
-- [ ] Write a brief one-page note
+### 6:00 – 7:30 | Block 1: System Design Book
+- Basic System Design
 
 ### 7:30 – 8:00 | Breakfast & Short Break
 - Have a light breakfast and walk for 10–15 minutes.
@@ -39,36 +34,16 @@ Checklist:
 - Don't study during the break.
 
 ### 13:00 – 14:30 | Block 2: AWS Fundamentals
-#### Goals
-
-#### Study Topics
-
-#### Practice
-
-Checklist:
-- [ ] 
 
 ### 14:30 – 14:45 | Short Break
-- [x] Drink water and walk for 5–10 minutes.
+- Drink water and walk for 5–10 minutes.
 
 ### 14:45 – 16:15 | Block 3: Docker
-#### Goals
-
-#### Practice
-
-Checklist:
-- [ ] 
 
 ### 16:15 – 16:30 | Short Break
 - Rest, take a deep breath, and avoid sitting for too long.
 
 ### 16:30 – 17:15 | Block 4: Terraform Fundamentals
-#### Goals
-
-#### Practice
-
-Checklist:
-- [ ] 
 
 ### 17:15 – 19:00 | Head Home. Run for 20 Minutes
 - Run gently; don't overexert yourself.
@@ -77,13 +52,7 @@ Checklist:
 ### 19:00 – 20:00 | Dinner & Rest
 - Rest after your run.
 
-### 20:00 – 21:00 | Block 4: 
-#### Goals
-
-#### Practice
-
-Checklist:
-- [ ]
+### 20:00 – 21:00 | Block 4:
 
 ### 21:30 – 22:00 | Journal + Review
 Answer these 5 questions:
@@ -93,21 +62,5 @@ Answer these 5 questions:
 4. What will I improve tomorrow?
 5. How much XP did I earn today?
 
----
+### Today's Wrap-Up Checklist
 
-## Today's Wrap-Up Checklist
-- [ ] Read the identity statement
-- [ ] Choose 3 Senior behaviors
-- [ ] Review Java Core and System Design
-- [ ] Take notes and draw a basic AWS diagram
-- [ ] Run a Docker container
-- [ ] Run PostgreSQL with Docker Compose
-- [ ] Check Git / JDK / IntelliJ / Maven or Gradle / Docker
-- [ ] Create a GitHub repo and make the first commit
-- [ ] Run for 20 minutes
-- [ ] Write a note / teach back what I learned
-- [ ] End-of-day journal
-
----
-
-## Today's Completion Criteria
